@@ -21,18 +21,22 @@ Features
 4. Search items
 5. Edit products
 Purchase items feature
+
 Additionally, the user can also search for any items that are in the
 inventory of supermarket management system. They just need to
 enter the product name. In order to edit an item, the user has to
 enter the name, and then if the name of the items matches, the user
 will be able to edit the name, quantity value, and price of that
 specific product.
+
 Functionalities provided by Python Project on Super Market
 Management System are as follows:
+
 · It tracks all the information of Payment, Sales, Stores etc
 · To increase efficiency of managing the Products, Payment
 · Manage the information of Products
 · Integration of all records of Customer.
+
 Report generation:
 · It generates the report on Products, Payment, Sales.
 Limitation of Python Project on Super Market Management System
